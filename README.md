@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-"# Netflix Data Analysis" 
 =======
-# 🎬 Netflix Dataset Analysis Project
+# 🎬 Netflix Data Analysis Project
 
 This project analyzes Netflix content to uncover trends, patterns, and actionable insights across movies and TV shows. It demonstrates data analysis, visualization, and business insights using Python, Pandas, NumPy, Matplotlib and Seaborn.
 
